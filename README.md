@@ -9,3 +9,4 @@ A collection of test cases in the Java language. It contains examples organized 
  +Number of Rules violated: 10.
 
 ![alt](https://github.com/diephuyduc/PhotoPublic_1/blob/master/JArchite_1.png)
+[MORE](https://github.com/diephuyduc/PhotoPublic_1)
