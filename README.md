@@ -7,6 +7,9 @@ A collection of test cases in the Java language. It contains examples organized 
 * Rules summary:  
  +Number of Rules or Queries with Error (syntax error,exception thrown, time-out): 0.
  +Number of Rules violated: 10.
+ * Critica of rules: 1.
+ * Violated of rules: 10.
+ * Ok rules: 205
 
 ![alt](https://github.com/diephuyduc/PhotoPublic_1/blob/master/JArchite_1.png)
 [MORE](https://github.com/diephuyduc/PhotoPublic_1)
